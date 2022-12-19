@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-    Coffee shops are places people can enjoy being together with family and friends, study, meet or do business. 
+Coffee shops are places people can enjoy being together with family and friends, study, meet or do business. 
 To make sure that everything goes well for the customers, coffee shop owners must make sure that they have enough
 supply. In order to help them to keep track of their supplies, we decided to prepare an application. As small business 
 owners, they will be able to see the available units, which products they should order, which products have expired, etc.  
@@ -15,15 +15,15 @@ owners, they will be able to see the available units, which products they should
 idea. 
 ### Features
 Include Features here
-*User Account: Users can create accounts and log in (Authentication and authorization)
-*User-in this case the owner and the workers- can use a CRUD inventory system linked with an API. 
-*Seach: Users can search for an item/category and view results. 
+*User Account: Users can create accounts and log in (Authentication and authorization),
+*User-in this case the owner and the workers- can use a CRUD inventory system linked with an API,
+*Seach: Users can search for an item/category and view results,
 *Notifications: Users can set up and receive push notifications to maintain safety stock.  
 ### Technologies
 Include Technologies here
-JavaScript and Angular -for Font End
-Java -for Back End 
-SpringBoot as the Framework
+JavaScript and Angular -for Font End,
+Java -for Back End,
+SpringBoot as the Framework,
 MySQL as database 
 ### What I'll Have to Learn
 Include what you will need to learn here
