@@ -11,6 +11,7 @@ https://github.com/sulus88
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
+www.linkedin.com/in/suna-u-00414025b
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
