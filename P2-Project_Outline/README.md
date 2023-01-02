@@ -33,4 +33,4 @@ idea.
 -How to create push notifications 
 ### Project Tracker
 <!-- Link to your Trello board here -->
-This is our Trello link: [Trello] (https://trello.com/b/YawwUMVa/liftoff-group-project-trello)
+[Trello] (https://trello.com/b/YawwUMVa/liftoff-group-project-trello)
